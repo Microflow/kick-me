@@ -8,7 +8,7 @@
 
 ## Practicing guitar? Morning workout? Make a promise for tomorrow morning. Friends can scream at you to get it done.
 
-## Research and Code Snippets
+# Questions, Research and Code Snippets
 
 ### Facebook Live Embed
 
