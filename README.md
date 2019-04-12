@@ -23,6 +23,9 @@
 
 http://jsfiddle.net/Komsomol/kh474ybe/
 
+### Embed Comments
+
+https://developers.facebook.com/docs/plugins/comments/
 
 
 
