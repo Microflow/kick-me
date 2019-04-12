@@ -24,3 +24,18 @@
 http://jsfiddle.net/Komsomol/kh474ybe/
 
 
+
+
+
+
+
+### Fiddles. Rough Version Log
+
+0.1 
+
+http://jsfiddle.net/4uLbnj1r/
+
+0.2 - Basic centered design. Remove second video. 
+
+http://jsfiddle.net/4uLbnj1r/3/
+
