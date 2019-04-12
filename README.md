@@ -8,6 +8,15 @@
 
 ## Practicing guitar? Morning workout? Make a promise for tomorrow morning. Friends can scream at you to get it done.
 
+# TODO
+
+- Verify Youtube live with cellphone.
+- Check FB live is working.
+- Make prototype with FB live.
+- Make FUNCTIONAL prototype (don't obsess over design)
+- Test concept with friends or family. 
+- Add chatroom?
+
 # Questions, Research and Code Snippets
 
 ### Facebook Live Embed
