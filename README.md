@@ -6,7 +6,7 @@
 <img src="http://i.imgur.com/mh5Myae.jpg" width="40%" height="auto">
 </p>
 
-## Practicing guitar? Morning Workout? Make a promise for tomorrow morning. Friends can scream at you to get it done.
+## Practicing guitar? Morning workout? Make a promise for tomorrow morning. Friends can scream at you to get it done.
 
 ## Research and Code Snippets
 
